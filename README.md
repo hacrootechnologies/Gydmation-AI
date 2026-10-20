@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><img src="assets/screenshots/gydmation-n8n-template-library-1987-templates.webp" alt="Template library"><br><sub><b>10,000+ n8n templates</b> — curated by category, app and level, plus n8n's community library.</sub></td>
-    <td><img src="assets/screenshots/gydmation-mcp-claude-chatgpt-ai-assistants.webp" alt="Gydmation MCP: use Gydmation inside your AI apps"><br><sub><b>Gydmation MCP</b> — use it inside Claude, ChatGPT, Claude Code, Cursor, Windsurf or VS Code. With Pro, they save, run and fix workflows in your n8n.</sub></td>
+    <td><img src="assets/screenshots/gydmation-mcp-use-inside-ai-apps.webp" alt="Gydmation MCP: use Gydmation inside your AI apps"><br><sub><b>Gydmation MCP</b> — use it inside Claude, ChatGPT, Claude Code, Cursor, Windsurf or VS Code. With Pro, they save, run and fix workflows in your n8n.</sub></td>
   </tr>
   <tr>
     <td><img src="assets/screenshots/gydmation-connect-n8n-instance.webp" alt="Connect your n8n"><br><sub><b>Connect your n8n once</b> — then deploy and activate straight from Gydmation.</sub></td>
